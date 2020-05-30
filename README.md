@@ -3,8 +3,10 @@
 
 - [Biography](#biography)
   - [English](#english)
-  - [Español](#español)
+  - [Spanish](#spanish)
 - [CV](#cv)
+  - [Spanish](#spanish-1)
+  - [English](#english-1)
 - [LICENSE MIT](#license-mit)
 
 # Biography
@@ -31,7 +33,7 @@ Your hobbies are outdoor activities, exercise, reading, seeing new places, cooki
 
 To know more you can send an email to hola@eliasojedamedina.com or visit their website at eliasojedamedina.com
 
-## Español
+## Spanish
 
 Elias Ojeda Medina es Ingeniero de Software y DataScientist, con experiencia en el desarrollo de software con diferentes lenguajes, actualmente usando Python como lenguaje principal, miembro activo del programa Platzi Master
 
@@ -53,11 +55,17 @@ Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com 
 
 # CV
 
+## Spanish
+
 Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
 
 <div align="center">
   <img src="cvscreenshot.png">
 </div>
+
+## English
+
+Coming soon
 
 # LICENSE MIT
 
