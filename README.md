@@ -5,10 +5,11 @@
   - [English](#english)
   - [Español](#español)
 - [Mi CV](#mi-cv)
+- [Licencia MIT](#licencia-mit)
 
 # Biografía
 
-Biografía basada en: https://business.tutsplus.com/es/tutorials/how-to-write-a-short-bio--cms-30643
+https://business.tutsplus.com/es/tutorials/how-to-write-a-short-bio--cms-30643
 
 ## English
 
@@ -52,10 +53,12 @@ Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com 
 
 # Mi CV
 
-CV personal escrito en LaTeX usando  [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
-
 Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
 
 <div align="center">
   <img src="cvscreenshot.png">
 </div>
+
+# Licencia MIT
+
+CV personal escrito en LaTeX usando el trabajo realizado por [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
