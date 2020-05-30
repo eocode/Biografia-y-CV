@@ -25,7 +25,7 @@ In recent years, he worked in data processing for the health sector, supporting 
 
 It has 2 active projects, Activando Ideas, a blog for share experiences, as well as knowledge in technology and Lesqui, a platform focused on retail trade.
 
-He is constantly in continuous learning at Platzi and doing projects to practice what he has learned
+He is constantly in continuous learning at Platzi and doing projects to practice what he has learned you can found some project on github.com/eocode
 
 Your hobbies are outdoor activities, exercise, reading, seeing new places, cooking, listening to music, and sometimes playing guitar.
 
@@ -45,7 +45,7 @@ En los últimos años se desempeñó en el tratamiento de datos para el sector s
 
 Cuenta con 2 proyectos activos, activando ideas, una plataforma para compartir experiencias, así como conocimiento en tecnología y lesqui una plataforma enfocada al comercio al por menor
 
-Se mantiene constantemente en aprendizaje continúo en Platzi y realizando proyectos para prácticar lo aprendido
+Se mantiene constantemente en aprendizaje continúo en Platzi y realizando proyectos para prácticar lo aprendido. Puedes encontrar algunos en github.com/eocode
 
 Sus pasatiempos son las actividades al aire libre, el ejercicio, leer, conocer lugares, cosas nuevas, cocinar, escuchar música y algunas veces tocar guitarra
 
