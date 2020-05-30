@@ -22,7 +22,7 @@ He has collaborated independently in the sectors: real estate, restaurant and re
 
 In recent years, he worked in data processing for the health sector, supporting data centralization processes, analysis and visualization of information for decision-making and improvement of both clinical and management and operation processes, working with implementations of Robust software with systems like SAP.
 
-It has 2 active projects, activating ideas, a platform to share experiences, as well as knowledge in technology and Lesqui, a platform focused on retail trade.
+It has 2 active projects, Activando Ideas, a blog for share experiences, as well as knowledge in technology and Lesqui, a platform focused on retail trade.
 
 He is constantly in continuous learning at Platzi and doing projects to practice what he has learned
 
