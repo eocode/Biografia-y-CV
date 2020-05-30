@@ -1,13 +1,13 @@
-# :page_with_curl: Biografia y CV | eocode<!-- omit in toc -->
+# :page_with_curl: Biography and CV | eocode<!-- omit in toc -->
 
-## Tabla de Contenido<!-- omit in toc -->
-- [Biografía](#biografía)
+
+- [Biography](#biography)
   - [English](#english)
   - [Español](#español)
-- [Mi CV](#mi-cv)
-- [Licencia MIT](#licencia-mit)
+- [CV](#cv)
+- [LICENSE MIT](#license-mit)
 
-# Biografía
+# Biography
 
 https://business.tutsplus.com/es/tutorials/how-to-write-a-short-bio--cms-30643
 
@@ -51,7 +51,7 @@ Sus pasatiempos son las actividades al aire libre, el ejercicio, leer, conocer l
 
 Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com o visitar su sitio web en eliasojedamedina.com
 
-# Mi CV
+# CV
 
 Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
 
@@ -59,7 +59,7 @@ Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
   <img src="cvscreenshot.png">
 </div>
 
-# Licencia MIT
+# LICENSE MIT
 
 MIT License
 
