@@ -1,23 +1,10 @@
-# :page_with_curl: Curriculum Vitae | eocode<!-- omit in toc -->
+# :page_with_curl: Biografia y CV | eocode<!-- omit in toc -->
 
 ## Tabla de Contenido<!-- omit in toc -->
-- [Descripción](#descripción)
-- [Mi CV](#mi-cv)
 - [Biografía](#biografía)
   - [Español](#español)
   - [Inglés](#inglés)
-
-# Descripción
-
-CV personal escrito en LaTeX usando  [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
-
-# Mi CV
-
-Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
-
-<div align="center">
-  <img src="cvscreenshot.png">
-</div>
+- [Mi CV](#mi-cv)
 
 # Biografía
 
@@ -60,3 +47,13 @@ He is constantly in continuous learning at Platzi and doing projects to practice
 Her hobbies are outdoor activities, exercise, reading, seeing new places, cooking, listening to music, and sometimes playing guitar.
 
 To know more you can send an email to hola@eliasojedamedina.com or visit their website at eliasojedamedina.com
+
+# Mi CV
+
+CV personal escrito en LaTeX usando  [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
+
+Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
+
+<div align="center">
+  <img src="cvscreenshot.png">
+</div>
