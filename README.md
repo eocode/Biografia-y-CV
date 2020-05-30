@@ -2,31 +2,13 @@
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Biografía](#biografía)
-  - [Español](#español)
   - [English](#english)
+  - [Español](#español)
 - [Mi CV](#mi-cv)
 
 # Biografía
 
-## Español
-
-Elias Ojeda Medina es Ingeniero de Software y DataScientist, con experiencia en la construcción de software con diferentes lenguajes, actualmente usando Python como lenguaje principal, miembro activo del programa Platzi Master
-
-Es Ingeniero en Computación por el Instituto Politécnico Nacional en la Ciudad de México
-
-En 2015 y 2016 adquirió dos certificaciones en Oracle para tecnologías en el lenguaje Java, lo que contribuyo a tener bases para el desarrollo de software
-
-Ha colaborado independientemente en los sectores: inmobiliario, restaurantero y retail en el desarrollo de soluciones informaticas para ciertos procesos y en la construcción de plataformas web, implementando tecnologías recientes cómo cloud computing, graphql y SPAs.
-
-En los últimos años se desempeñó en el tratamiento de datos para el sector salud, apoyando en procesos de centralización de datos, análisis y visualización de información para la toma de decisiones y mejora de procesos tanto clínicos como de gestión y operación, trabajando con implementaciones de software robustas con sistemas como SAP.
-
-Cuenta con 2 proyectos activos, activando ideas, una plataforma para compartir experiencias, así como conocimiento en tecnología y lesqui una plataforma enfocada al comercio al por menor
-
-Se mantiene constantemente en aprendizaje continúo en Platzi y realizando proyectos para prácticar lo aprendido
-
-Sus pasatiempos son las actividades al aire libre, el ejercicio, leer, conocer lugares, cosas nuevas, cocinar, escuchar música y algunas veces tocar guitarra
-
-Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com o visitar su sitio web en eliasojedamedina.com
+Biografía basada en: https://business.tutsplus.com/es/tutorials/how-to-write-a-short-bio--cms-30643
 
 ## English
 
@@ -47,6 +29,26 @@ He is constantly in continuous learning at Platzi and doing projects to practice
 Your hobbies are outdoor activities, exercise, reading, seeing new places, cooking, listening to music, and sometimes playing guitar.
 
 To know more you can send an email to hola@eliasojedamedina.com or visit their website at eliasojedamedina.com
+
+## Español
+
+Elias Ojeda Medina es Ingeniero de Software y DataScientist, con experiencia en la construcción de software con diferentes lenguajes, actualmente usando Python como lenguaje principal, miembro activo del programa Platzi Master
+
+Es Ingeniero en Computación por el Instituto Politécnico Nacional en la Ciudad de México
+
+En 2015 y 2016 adquirió dos certificaciones en Oracle para tecnologías en el lenguaje Java, lo que contribuyo a tener bases para el desarrollo de software
+
+Ha colaborado independientemente en los sectores: inmobiliario, restaurantero y retail en el desarrollo de soluciones informaticas para ciertos procesos y en la construcción de plataformas web, implementando tecnologías recientes cómo cloud computing, graphql y SPAs.
+
+En los últimos años se desempeñó en el tratamiento de datos para el sector salud, apoyando en procesos de centralización de datos, análisis y visualización de información para la toma de decisiones y mejora de procesos tanto clínicos como de gestión y operación, trabajando con implementaciones de software robustas con sistemas como SAP.
+
+Cuenta con 2 proyectos activos, activando ideas, una plataforma para compartir experiencias, así como conocimiento en tecnología y lesqui una plataforma enfocada al comercio al por menor
+
+Se mantiene constantemente en aprendizaje continúo en Platzi y realizando proyectos para prácticar lo aprendido
+
+Sus pasatiempos son las actividades al aire libre, el ejercicio, leer, conocer lugares, cosas nuevas, cocinar, escuchar música y algunas veces tocar guitarra
+
+Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com o visitar su sitio web en eliasojedamedina.com
 
 # Mi CV
 
