@@ -12,7 +12,7 @@ Biografía basada en: https://business.tutsplus.com/es/tutorials/how-to-write-a-
 
 ## English
 
-Elias Ojeda Medina is a Software Engineer and DataScientist, with experience in building software with different languages, currently using Python as the main language, an active member of the Platzi Master program
+Elias Ojeda Medina is a Software Engineer and DataScientist, with experience in developing software with different languages, currently using Python as the main language, an active member of the Platzi Master program
 
 He is a Computer Engineer from the Instituto Politécnico Nacional in Mexico City
 
@@ -32,7 +32,7 @@ To know more you can send an email to hola@eliasojedamedina.com or visit their w
 
 ## Español
 
-Elias Ojeda Medina es Ingeniero de Software y DataScientist, con experiencia en la construcción de software con diferentes lenguajes, actualmente usando Python como lenguaje principal, miembro activo del programa Platzi Master
+Elias Ojeda Medina es Ingeniero de Software y DataScientist, con experiencia en el desarrollo de software con diferentes lenguajes, actualmente usando Python como lenguaje principal, miembro activo del programa Platzi Master
 
 Es Ingeniero en Computación por el Instituto Politécnico Nacional en la Ciudad de México
 
