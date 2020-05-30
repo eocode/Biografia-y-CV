@@ -16,7 +16,7 @@ Elias Ojeda Medina is a Software Engineer and DataScientist, with experience in 
 
 He is a Computer Engineer from the Instituto Politécnico Nacional in Mexico City
 
-In 2015 and 2016 he acquired two certifications in Oracle for technologies in the Java language, which contributed to having bases for the development of software
+He acquired two certifications in Oracle for technologies in the Java language, which contributed to having bases for the development of software
 
 He has collaborated independently in the sectors: real estate, restaurant and retail in the development of computer solutions for certain processes and in the construction of web platforms, implementing recent technologies such as cloud computing, graphql and SPAs.
 
@@ -36,7 +36,7 @@ Elias Ojeda Medina es Ingeniero de Software y DataScientist, con experiencia en 
 
 Es Ingeniero en Computación por el Instituto Politécnico Nacional en la Ciudad de México
 
-En 2015 y 2016 adquirió dos certificaciones en Oracle para tecnologías en el lenguaje Java, lo que contribuyo a tener bases para el desarrollo de software
+Adquirió dos certificaciones en Oracle para tecnologías en el lenguaje Java, lo que contribuyo a tener bases para el desarrollo de software
 
 Ha colaborado independientemente en los sectores: inmobiliario, restaurantero y retail en el desarrollo de soluciones informaticas para ciertos procesos y en la construcción de plataformas web, implementando tecnologías recientes cómo cloud computing, graphql y SPAs.
 
