@@ -38,6 +38,7 @@
 \newcommand{\address}[1]{\def\@address{#1}}
 \newcommand{\phone}[1]{\def\@phone{#1}}
 \newcommand{\email}[1]{\def\@email{#1}}
+\newcommand{\dateletter}[1]{\def\@dateletter{#1}}
 
 \newcommand{\homepage}[1]{\def\@homepage{#1}}
 \newcommand{\github}[1]{\def\@github{#1}}
@@ -121,7 +122,7 @@
 	% Social/online accounts
 	{\small
 		\mbox{\faEnvelope~\href{mailto:\@email}{\@email}}
-		\ifdefined\@homepage\mbox{\pipe\faHome~\href{http://\@homepage}{\@homepage}}\fi
+		\ifdefined\@homepage\mbox{\pipe\faHome~\href{https://\@homepage}{\@homepage}}\fi
 		\ifdefined\@github\mbox{\pipe\faGithubSquare~\href{https://github.com/\@github}{\@github}}\fi%
 		\ifdefined\@linkedin\mbox{\pipe\faLinkedinSquare~\href{https://www.linkedin.com/in/\@linkedin}{\@linkedin}}\fi
 		\ifdefined\@twitter\mbox{\pipe\faTwitterSquare~\href{https://twitter.com/\@twitter}{\@twitter}}\fi
@@ -161,7 +162,7 @@
 % Makes recipient section from details & dates letter
 \newcommand{\tmrtitle}{ 
 	
-    \textbf{\@recipientname}\hfill\textit{\today}\\
+    \textbf{\@recipientname}\hfill\textit{\@dateletter}\\
   	\@recipientaddress \\\\\\
 	\@greeting,
 }
@@ -170,8 +171,7 @@
 % Signs off letter
 \newcommand{\tmrclosing}{
 	\vspace{10mm}\filbreak
-	\@farewell, \\\\ \textbf{\@fullname} \\\\
-	\textit{Attached: R\'esum\'e	}%
+	\@farewell, \\\\ \textbf{\@fullname} %
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
