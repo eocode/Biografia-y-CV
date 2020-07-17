@@ -1,0 +1,147 @@
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+\renewcommand{\baselinestretch}{1}
+\setlength{\baselineskip}{18pt}
+
+\begin{document}
+
+\begin{minipage}[t]{0.45\textwidth} % 45% of the page width for name
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{> Elias}}}}} % First name
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{------ Ojeda}}}}} % Last name
+	
+	\vspace{6pt}
+	
+	{\huge Python Software Engineer} % Career or current job title
+\end{minipage}
+\begin{minipage}[t]{0.300\textwidth} % 27.5% of the page width for the first row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\icon{MapMarker}{12}{Ciudad de México, México}\\
+	\icon{At}{12}{\href{mailto:hola@eliasojedamedina.com}{hola@eliasojedamedina.com}}\\
+	\icon{Globe}{12}{\href{https://eliasojedamedina.com}{eliasojedamedina.com}}\\
+\end{minipage}
+\begin{minipage}[t]{0.275\textwidth} % 27.5% of the page width for the second row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	\icon{Linkedin}{12}{\href{https://www.linkedin.com/in/eocode/}{in/eocode}}\\
+	\icon{Github}{12}{\href{https://github.com/eocode}{github.com/eocode}}\\
+	\icon{Twitter}{12}{\href{https://twitter.com/@eocode}{@eocode}}\\
+\end{minipage}
+
+\vspace{0.5cm}
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\cvsect{¿Quién soy?}
+
+\begin{minipage}[t]{0.4\textwidth} % 40% of the page width for the introduction text
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	Soy una persona enfocada en el desarrollo de proyectos y entrega de resultados, acorde a necesidades basadas en datos, me considero persistente y adaptable a los cambios que puedan presentarse puesto que me encuentro en constante formación. En más de 4 años de mi experiencia he aprendido la importancia de tener un enfoque centrado en el usuario, el trabajo en equipo y la utilidad de lo que se realice. \\ % Description
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.5\textwidth} % 50% of the page for the skills bar chart
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	\begin{barchart}{5.5}
+		\baritem{Python (Django/Flask)}{80}
+		\baritem{PHP (Laravel)}{60}
+		\baritem{SQL (PostgreSQL - SQL Server)}{90}
+		\baritem{\href{https://github.com/eocode/Love-Data-with-Python-SQL-R-Scala}{Web HTML-CSS-JS (React-Apollo)}}{40}
+		\baritem{AWS - GCP}{40}
+		\baritem{GitLab - Docker - Mongo - Scrum}{30}
+	\end{barchart}
+\end{minipage}
+
+\begin{center}
+	\bubbles{4/Organizado, 4/Equipo, 4/Proactivo, 4/Creativo, 4/Resiliencia}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\cvsect{Experiencia}
+
+\begin{entrylist}
+	\entry
+		{2019 -- Actualidad\\\footnotesize{Emprendimiento}}
+		{Software Engineer / DataScientist}
+		{Lesqui.com}
+		{Creación de plataforma para apoyar a micronegocios a iniciarse en la era digital. Acercamiento con el cliente para entender necesidades y riesgos. Diseño, pruebas e implementación. \\ \texttt{GCP}\slashsep\texttt{GraphQL}\slashsep\texttt{PostgreSQL}\slashsep\texttt{Python}\slashsep\texttt{Django}\slashsep\texttt{React} \slashsep\texttt{Flutter}}
+	\entry
+		{2017 -- 2019}
+		{Analista de inteligencia de negocios}
+		{Centro Medico ABC}
+		{Levantamiento de requerimientos de datos en distintas áreas. Creación y administración de Data WareHouse. Generación de procesos ETL entre diferentes sistemas y archivos (SAP, HL7, CSV, Excel, ACCDB, SQL). Creación de conectores RFC para creación de extractor SAP. Desarrollo de algoritmos de detección de patrones, Creación de dashboards y visualizaciones de datos. Creación de sitio web interno para compartir información\\ 
+			\texttt{DatawareHouse}\slashsep\texttt{Power BI / Tableau / Data Studio / SSDT}\slashsep\texttt{C\#}\slashsep\texttt{Python}}
+	\entry
+		{2016 -- 2017}
+		{Información estratégica}
+		{Centro Medico ABC}
+		{Reportes en Excel con macros, Analisis de información y algoritmos de estandarización, Limpieza de direcciones con bases de datos de Correos de México e INEGI (DENUE).\\ 
+		\texttt{Excel}\slashsep\texttt{Java}\slashsep\texttt{Sql Server}}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\cvsect{Education}
+
+\begin{entrylist}
+	\entry
+		{2016 - Actualidad}
+		{Capacitación}
+		{\href{https://platzi.com/@eocode}{Platzi / Master}}
+		{\textbf{Rutas de aprendizaje:} Desarrollo profesional, Bases de datos, Backend con Python y DJango, Data Science, Matemáticas para programación \textbf{Scrum SFPC}: CERT ID: 41900668.}	
+	\entry
+		{2014 -- 2017}
+		{Ingenieria en Computación}
+		{\href{https://www.esimecu.ipn.mx/}{Instituto Politécnico Nacional (IPN/ESIME)}}
+		{Bases matemáticas, Bases de datos (Oracle), Programación (Java, C / C++), Computo en la nube (AWS), \textbf{Especialidad en Sistemas de información}. \textbf{Certificaciones Java Oracle:} CERT ID: 243138007OCPJSE6P y CERT ID: 243138007OCAJSE7 }
+		
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.3\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\cvsect{Idiomas}
+	
+	\textbf{Español} - Nativo\\
+	\textbf{Inglés} - Básico\\
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\cvsect{Pasatiempos}
+	
+	 Leer, Ejercicio, Cocinar, Series, Video Juegos, Música (Guitarra), Aire Libre
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\cvsect{Intereses}
+	
+	\texttt{Data Science}\slashsep
+	\texttt{Machine Learning}\slashsep
+	\texttt{Data Visualization}\slashsep
+	\texttt{Data Analyst}\slashsep
+	\texttt{Development}\slashsep
+	\texttt{Data Engineering}\slashsep
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
