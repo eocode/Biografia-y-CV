@@ -2,25 +2,32 @@
 
 
 - [CV](#cv)
-  - [Versión 1](#versión-1)
-  - [Versión 2](#versión-2)
-- [Biography](#biography)
-  - [English](#english)
   - [Spanish](#spanish)
+    - [Versión 1](#versión-1)
+    - [Versión 2](#versión-2)
+  - [English](#english)
+- [Biography](#biography)
   - [English](#english-1)
+  - [Spanish](#spanish-1)
 - [LICENSE MIT](#license-mit)
 
 # CV
 
-## Versión 1
+## Spanish
+
+### Versión 1
 
 * Ver en PDF Data Scientist [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
 * Ver en PDF Software Engineer [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf.pdf)
 
-## Versión 2
+### Versión 2
 
 * Ver en PDF Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf)
 * Ver en PDF Data Scientist [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
+
+## English
+
+Coming soon
 
 # Biography
 
@@ -65,10 +72,6 @@ Se mantiene constantemente en aprendizaje continúo en Platzi y realizando proye
 Sus pasatiempos son las actividades al aire libre, el ejercicio, leer, conocer lugares, cosas nuevas, cocinar, escuchar música y algunas veces tocar guitarra
 
 Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com o visitar su sitio web en eliasojedamedina.com
-
-## English
-
-Coming soon
 
 # LICENSE MIT
 
