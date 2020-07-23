@@ -11,6 +11,7 @@
   - [English](#english-1)
   - [Spanish](#spanish-1)
 - [LICENSE MIT](#license-mit)
+- [Credits](#credits)
 
 # CV
 
@@ -83,6 +84,8 @@ Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com 
 # LICENSE MIT
 
 MIT License 2020
+
+# Credits
 
 * CV personal V1 escrito en LaTeX usando el trabajo realizado por [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
 * CV personal V2 escrito en LaTeX usando el trabajo realizado por [altaCV](https://github.com/liantze/AltaCV) desarrollado por [liantze](https://github.com/liantze)
