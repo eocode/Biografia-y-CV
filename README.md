@@ -6,6 +6,7 @@
     - [Versión 1](#versión-1)
     - [Versión 2](#versión-2)
   - [English](#english)
+- [Letter](#letter)
 - [Biography](#biography)
   - [English](#english-1)
   - [Spanish](#spanish-1)
@@ -14,6 +15,8 @@
 # CV
 
 ## Spanish
+
+Dos versiones con diferentes estilos y distribución de información
 
 ### Versión 1
 
@@ -28,6 +31,10 @@
 ## English
 
 Coming soon
+
+# Letter
+
+* Letter template [aquí](/letter/letter.pdf)
 
 # Biography
 
