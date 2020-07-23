@@ -1,13 +1,26 @@
 # :page_with_curl: Biography and CV | eocode<!-- omit in toc -->
 
 
+- [CV](#cv)
+  - [Versión 1](#versión-1)
+  - [Versión 2](#versión-2)
 - [Biography](#biography)
   - [English](#english)
   - [Spanish](#spanish)
-- [CV](#cv)
-  - [Spanish](#spanish-1)
   - [English](#english-1)
 - [LICENSE MIT](#license-mit)
+
+# CV
+
+## Versión 1
+
+Ver en PDF Data Scientist [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
+Ver en PDF Software Engineer [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf.pdf)
+
+## Versión 2
+
+Ver en PDF Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf)
+Ver en PDF Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
 
 # Biography
 
@@ -53,42 +66,12 @@ Sus pasatiempos son las actividades al aire libre, el ejercicio, leer, conocer l
 
 Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com o visitar su sitio web en eliasojedamedina.com
 
-# CV
-
-## Spanish
-
-Ver en PDF [aquí](/CV-Elias%20Ojeda%20Medina.pdf)
-
-<div align="center">
-  <img src="cvscreenshot.png">
-</div>
-
 ## English
 
 Coming soon
 
 # LICENSE MIT
 
-MIT License
-
-Copyright (c) 2020 Elias Ojeda Medina
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+MIT License 2020
 
 CV personal escrito en LaTeX usando el trabajo realizado por [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
