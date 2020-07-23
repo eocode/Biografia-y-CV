@@ -20,7 +20,7 @@
 ## Versión 2
 
 * Ver en PDF Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf)
-* Ver en PDF Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
+* Ver en PDF Data Scientist [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
 
 # Biography
 
