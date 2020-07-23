@@ -20,13 +20,13 @@ Dos versiones con diferentes estilos y distribución de información
 
 ### Versión 1
 
-* Ver en PDF Data Scientist [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
-* Ver en PDF Software Engineer [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf.pdf)
+* CV template for Data Scientist [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
+* CV template for Software Engineer [aquí](/cv/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf.pdf)
 
 ### Versión 2
 
-* Ver en PDF Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf)
-* Ver en PDF Data Scientist [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
+* CV template for Software Engineer [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Software%20Engineer.pdf)
+* CV template for Data Scientist [aquí](/cv2/CV-Elias%20Ojeda%20Medina%20-%20Data%20Scientist.pdf)
 
 ## English
 
@@ -84,4 +84,5 @@ Para saber más puedes enviar un correo electronico a hola@eliasojedamedina.com 
 
 MIT License 2020
 
-CV personal escrito en LaTeX usando el trabajo realizado por [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
+* CV personal V1 escrito en LaTeX usando el trabajo realizado por [minimal latex cv template](https://github.com/janvorisek/minimal-latex-cv) desarrollado por: [@janvorisek](https://github.com/janvorisek)
+* CV personal V2 escrito en LaTeX usando el trabajo realizado por [altaCV](https://github.com/liantze/AltaCV) desarrollado por [liantze](https://github.com/liantze)
